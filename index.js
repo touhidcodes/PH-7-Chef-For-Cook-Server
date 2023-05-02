@@ -9,8 +9,19 @@ app.use(cors());
 app.get("/", (req, res) => {
 	res.send("Chef for Cook is running....!");
 });
+
+// all chefs data
 app.get("/chefs", (req, res) => {
 	res.send(chefs);
+});
+
+// Individual chefs data by id
+app.get("/chefs/:id", (req, res) => {
+	const id = parseInt(req.params.id);
+	const currentChef = chefs.find((chef) => chef.id === id);
+	res.send(currentChef);
+	console.log(currentChef);
+	console.log(id);
 });
 
 app.listen(port, () => {
