@@ -1,374 +1,391 @@
-{
-	"recipes": [
-		{
-			"id": "1",
-			"cook_name": "Mohammad Ajman Miah",
-			"recipes": [
-				{
-					"Recipe": 1,
-					"name": "Bengali Fish Curry",
-					"ingredients": [
-						"500g fish",
-						"2 onions, finely chopped",
-						"1 tbsp ginger paste",
-						"1 tbsp garlic paste",
-						"1 tbsp cumin powder",
-						"1 tbsp coriander powder",
-						"1 tsp turmeric powder",
-						"1 tsp red chilli powder",
-						"1/2 cup tomato puree",
-						"2 green chillies, slit",
-						"2 tbsp mustard oil",
-						"Salt, to taste",
-						"Coriander leaves, for garnishing"
-					],
-					"method": "1. Marinate the fish with salt and turmeric powder. Keep it aside for 10 minutes.\n2. Heat mustard oil in a pan over medium-high heat. Fry the fish until golden brown. Remove and keep aside.\n3. In the same pan, add more mustard oil if required. Add chopped onions and saute until translucent.\n4. Add ginger paste and garlic paste. Saute for 1-2 minutes.\n5. Add cumin powder, coriander powder, turmeric powder, and red chilli powder. Saute for 2-3 minutes.\n6. Add tomato puree and saute for 2-3 minutes.\n7. Add water and bring it to a boil.\n8. Add the fried fish and green chillies. Cook for 5-7 minutes or until the fish is fully cooked.\n9. Garnish with coriander leaves and serve hot."
-				},
-				{
-					"Recipe": 2,
-					"name": "Chicken Rezala",
-					"ingredients": [
-						"500g chicken",
-						"2 onions, finely chopped",
-						"1 tbsp ginger paste",
-						"1 tbsp garlic paste",
-						"1/2 cup yogurt",
-						"1 tsp cumin powder",
-						"1 tsp coriander powder",
-						"1 tsp white pepper powder",
-						"1/2 cup cashew nuts, soaked in water",
-						"1/2 cup poppy seeds, soaked in water",
-						"1/2 cup milk",
-						"2 tbsp ghee",
-						"Salt, to taste",
-						"Coriander leaves, for garnishing"
-					],
-					"method": "1. In a blender, blend the soaked cashew nuts and poppy seeds into a fine paste.\n2. Marinate the chicken with salt and white pepper powder. Keep it aside for 10 minutes.\n3. Heat ghee in a pan over medium-high heat. Fry the chicken until golden brown. Remove and keep aside.\n4. In the same pan, add chopped onions and saute until translucent.\n5. Add ginger paste and garlic paste. Saute for 1-2 minutes.\n6. Add cumin powder, coriander powder, and white pepper powder. Saute for 2-3 minutes.\n7. Add the cashew nut and poppy seed paste. Mix well.\n8. Add water and bring it to a boil.\n9. Add the fried chicken and yogurt. Cook for 5-7 minutes or until the chicken is fully cooked.\n10. Add milk and mix well.\n11. Garnish with coriander leaves and serve hot."
-				},
-				{
-					"Recipe": 3,
-					"name": "Biryani",
-					"ingredients": [
-						"2 cups basmati rice",
-						"500g chicken, cut into pieces",
-						"2 onions, sliced",
-						"2 tomatoes, chopped",
-						"1 tbsp ginger paste",
-						"1 tbsp garlic paste",
-						"1/2 cup yogurt",
-						"1 tsp cumin powder",
-						"1 tsp coriander powder",
-						"1 tsp garam masala",
-						"1 tsp red chilli powder",
-						"1/2 cup mint leaves",
-						"1/2 cup coriander leaves",
-						"2 tbsp ghee",
-						"Salt, to taste"
-					],
-					"method": "1. Wash and soak the rice in water for 30 minutes.\n2. In a pan, heat ghee over medium-high heat. Add sliced onions and fry until golden brown. Remove and keep aside.\n3. In the same pan, add chicken pieces and fry until golden brown. Remove and keep aside.\n4. In the same pan, add ginger paste and garlic paste. Saute for 1-2 minutes.\n5. Add chopped tomatoes and cook until they become soft and mushy.\n6. Add cumin powder, coriander powder, garam masala, and red chilli powder. Mix well.\n7. Add yogurt and mix well.\n8. Add fried chicken pieces, mint leaves, coriander leaves, and salt. Mix well.\n9. In a separate pan, boil water and add soaked rice. Cook until the rice is half done.\n10. Drain the water from the rice.\n11. In a large pot, layer the rice and chicken masala alternatively. Top with fried onions and cover the pot.\n12. Cook for 15-20 minutes over low heat.\n13. Serve hot."
-				}
-			]
-		},
-		{
-			"id": "2",
-			"Recipe": 1,
-			"cook_name": "Siddika Kabir",
-			"recipes": [
-				{
-					"name": "Shorshe Ilish",
-					"ingredients": [
-						"500g Hilsa fish",
-						"2 tbsp yellow mustard seeds",
-						"1/2 tsp turmeric powder",
-						"2-3 green chillies, slit",
-						"1/2 cup mustard oil",
-						"Salt, to taste"
-					],
-					"method": "1. Clean the Hilsa fish and marinate with turmeric powder and salt. Keep it aside for 10 minutes.\n2. Soak yellow mustard seeds in water for 30 minutes.\n3. Grind the mustard seeds to a fine paste.\n4. Heat mustard oil in a pan over medium heat.\n5. Add the mustard paste and fry for 1-2 minutes.\n6. Add turmeric powder and salt. Mix well.\n7. Add the marinated Hilsa fish and green chillies. Coat the fish with the mustard sauce.\n8. Add water and bring it to a boil.\n9. Cover the pan and cook for 10-15 minutes or until the fish is cooked.\n10. Serve hot with steamed rice."
-				},
-				{
-					"Recipe": 2,
-					"name": "Bhuna Khichuri",
-					"ingredients": [
-						"1 cup rice",
-						"1 cup moong dal",
-						"1 onion, sliced",
-						"2-3 green chillies, slit",
-						"1 tsp cumin seeds",
-						"1 tsp coriander seeds",
-						"1 tsp turmeric powder",
-						"1 tsp red chilli powder",
-						"1/2 tsp garam masala",
-						"2-3 cloves",
-						"1 cinnamon stick",
-						"2-3 cardamom pods",
-						"3 tbsp ghee",
-						"Salt, to taste"
-					],
-					"method": "1. Wash the rice and moong dal together and soak them in water for 30 minutes.\n2. In a pan, heat ghee over medium heat. Add sliced onions and fry until golden brown. Remove and keep aside.\n3. In the same pan, add cumin seeds, coriander seeds, cloves, cinnamon stick, and cardamom pods. Fry for 1-2 minutes.\n4. Add the soaked rice and moong dal. Fry for 2-3 minutes.\n5. Add turmeric powder, red chilli powder, and salt. Mix well.\n6. Add water and bring it to a boil.\n7. Cover the pan and cook for 15-20 minutes or until the khichuri is cooked.\n8. Add garam masala, fried onions, and green chillies. Mix well.\n9. Serve hot."
-				},
-				{
-					"Recipe": 3,
-					"name": "Pitha",
-					"ingredients": [
-						"2 cups rice flour",
-						"2 cups water",
-						"1/2 cup jaggery, grated",
-						"1/2 cup coconut, grated",
-						"1 tsp cardamom powder",
-						"Oil, for frying"
-					],
-					"method": "1. In a pan, heat water over medium heat. Add grated jaggery and stir until it dissolves completely.\n2. Add grated coconut and cardamom powder. Mix well.\n3. Add rice flour and mix well.\n4. Cook for 2-3 minutes or until the mixture becomes thick.\n5. Remove from heat and let it cool down.\n6. Knead the mixture to form a smooth dough.\n7. Make small balls from the dough.\n8. Flatten the balls with your hands to form a small disc shape.\n9. Heat oil in a pan over medium heat.\n10. Fry the flattened discs in the oil until they become golden brown.\n11. Remove from oil and serve."
-				}
-			]
-		},
-		{
-			"id": "3",
-			"cook_name": "Tony Alal Karim Khan",
-			"recipes": [
-				{
-					"Recipe": 1,
-					"name": "Chapli Kebab",
-					"ingredients": [
-						"500g beef mince",
-						"1 onion, finely chopped",
-						"2 tomatoes, finely chopped",
-						"1 egg",
-						"1/2 cup coriander leaves, chopped",
-						"1/2 cup mint leaves, chopped",
-						"1 tsp cumin powder",
-						"1 tsp coriander powder",
-						"1 tsp red chilli powder",
-						"1 tsp garam masala",
-						"1/2 tsp turmeric powder",
-						"1/2 tsp baking powder",
-						"Salt, to taste",
-						"Oil, for frying"
-					],
-					"method": "1. In a mixing bowl, combine beef mince, chopped onion, chopped tomatoes, beaten egg, chopped coriander leaves, chopped mint leaves, cumin powder, coriander powder, red chilli powder, garam masala, turmeric powder, baking powder, and salt. Mix well.\n2. Knead the mixture to form a smooth dough.\n3. Take a small portion of the mixture and shape it into a round patty.\n4. Heat oil in a pan over medium heat.\n5. Fry the patties in the oil until they become golden brown on both sides.\n6. Remove from oil and serve hot."
-				},
-				{
-					"Recipe": 2,
-					"name": "Shorshe Ilish",
-					"ingredients": [
-						"4-5 pieces of Hilsa fish",
-						"2 tbsp yellow mustard seeds",
-						"2-3 green chillies, slit",
-						"1 tsp turmeric powder",
-						"Salt, to taste",
-						"2 tbsp mustard oil",
-						"Water, as required"
-					],
-					"method": "1. Marinate the Hilsa fish pieces with turmeric powder and salt. Keep it aside for 10 minutes.\n2. Soak yellow mustard seeds in water for 30 minutes.\n3. Grind the mustard seeds to a fine paste.\n4. Heat mustard oil in a pan over medium heat.\n5. Add the mustard paste and fry for 1-2 minutes.\n6. Add turmeric powder and salt. Mix well.\n7. Add the marinated Hilsa fish and green chillies. Coat the fish with the mustard sauce.\n8. Add water and bring it to a boil.\n9. Cover the pan and cook for 10-15 minutes or until the fish is cooked.\n10. Serve hot with steamed rice."
-				},
-				{
-					"Recipe": 3,
-					"name": "Bhuna Khichuri",
-					"ingredients": [
-						"1 cup rice",
-						"1 cup moong dal",
-						"1 onion, sliced",
-						"2-3 green chillies, slit",
-						"1 tsp cumin seeds",
-						"1 tsp coriander seeds",
-						"1 tsp turmeric powder",
-						"1 tsp red chilli powder",
-						"1/2 tsp garam masala",
-						"2-3 cloves",
-						"1 cinnamon stick",
-						"2-3 cardamom pods",
-						"3 tbsp ghee",
-						"Salt, to taste"
-					],
-					"method": "1. Wash the rice and moong dal together and soak them in water for 30 minutes.\n2. In a pan, heat ghee over medium heat. Add sliced onions and fry until golden brown. Remove and keep aside.\n3. In the same pan, add cumin seeds, coriander seeds, cloves, cinnamon stick, and cardamom pods. Fry for 1-2 minutes.\n4. Add the soaked rice and moong dal. Fry for 2-3 minutes.\n5. Add turmeric powder, red chilli powder, and salt. Mix well.\n6. Add 4 cups of water and green chillies. Stir well.\n7. Cover the pan and cook over low heat until the rice and dal are cooked.\n8. Once the rice and dal are cooked, add the fried onions and garam masala. Mix well.\n9. Cover the pan and let it sit for 5-10 minutes.\n10. Serve hot with your favorite side dish."
-				}
-			]
-		},
-		{
-			"id": 4,
-			"cook_name": "Kishwar Chowdhury",
-			"recipes": [
-				{
-					"Recipe": 1,
-					"name": "Chingri Malai Curry",
-					"ingredients": [
-						"500 gm prawns",
-						"1 onion, chopped",
-						"1 tbsp ginger paste",
-						"1 tbsp garlic paste",
-						"2 green chillies, chopped",
-						"1/2 cup coconut milk",
-						"1/2 cup water",
-						"2 tbsp mustard oil",
-						"1 tsp turmeric powder",
-						"1 tsp red chilli powder",
-						"1 tsp cumin powder",
-						"1 tsp coriander powder",
-						"Salt, to taste",
-						"Coriander leaves, for garnishing"
-					],
-					"method": "1. Clean the prawns and marinate them with turmeric powder and salt. Keep aside for 10 minutes.\n2. In a pan, heat mustard oil over medium heat. Add chopped onion and fry until golden brown.\n3. Add ginger paste, garlic paste, and chopped green chillies. Fry for 1-2 minutes.\n4. Add turmeric powder, red chilli powder, cumin powder, coriander powder, and salt. Mix well.\n5. Add water and coconut milk. Mix well and bring it to a boil.\n6. Add the marinated prawns and stir well.\n7. Cover the pan and let it cook over low heat for 10-15 minutes or until the prawns are cooked.\n8. Garnish with coriander leaves and serve hot with steamed rice."
-				},
-				{
-					"Recipe": 2,
-					"name": "Biryani",
-					"ingredients": [
-						"500 gm basmati rice",
-						"1 kg chicken, cut into pieces",
-						"2 onions, sliced",
-						"1/2 cup yogurt",
-						"1/2 cup milk",
-						"2 tbsp ginger paste",
-						"2 tbsp garlic paste",
-						"4 green chillies, chopped",
-						"1 tsp cumin powder",
-						"1 tsp coriander powder",
-						"1 tsp garam masala",
-						"1/2 tsp turmeric powder",
-						"1/2 tsp red chilli powder",
-						"1/2 tsp saffron",
-						"1/2 cup ghee",
-						"Salt, to taste"
-					],
-					"method": "1. Wash the rice and soak it in water for 30 minutes.\n2. Marinate the chicken with yogurt, ginger paste, garlic paste, chopped green chillies, cumin powder, coriander powder, garam masala, turmeric powder, red chilli powder, and salt. Keep aside for 30 minutes.\n3. In a pan, heat ghee over medium heat. Add sliced onions and fry until golden brown. Remove and keep aside.\n4. In the same pan, add the marinated chicken and fry for 5-7 minutes.\n5. Add water and cook until the chicken is tender and the water has evaporated.\n6. Soak saffron in warm milk for 5-10 minutes.\n7. In a separate pot, boil water andadd the soaked rice. Cook for 7-8 minutes or until the rice is half cooked.\n8. Drain the water and keep the rice aside.\n9. Preheat the oven to 180°C.\n10. Take a large oven-safe pot and add a layer of rice at the bottom.\n11. Add a layer of chicken on top of the rice.\n12. Add another layer of rice on top of the chicken.\n13. Repeat until all the rice and chicken are used up.\n14. Pour the saffron milk on top of the rice.\n15. Cover the pot with aluminum foil and bake in the preheated oven for 30-40 minutes.\n16. Remove from the oven and let it sit for 5-10 minutes.\n17. Garnish with fried onions and serve hot with raita and salad."
-				},
-				{
-					"Recipe": 3,
-					"name": "Pitha",
-					"ingredients": [
-						"1 cup rice flour",
-						"1/2 cup water",
-						"1/2 cup grated coconut",
-						"1/2 cup jaggery, grated",
-						"1/2 tsp cardamom powder",
-						"1/2 tsp salt",
-						"2 tbsp oil"
-					],
-					"method": "1. In a pan, mix grated coconut and jaggery. Cook over low heat until the jaggery melts and mixes well with the coconut. Remove from heat and let it cool down.\n2. In a separate pan, boil water and add salt and oil.\n3. Add rice flour and mix well. Cook for 2-3 minutes.\n4. Remove from heat and let it cool down.\n5. Knead the rice flour mixture to make a smooth dough.\n6. Take a small portion of the dough and make a ball.\n7. Flatten the ball with your fingers to make a small disk.\n8. Add a small portion of the coconut and jaggery mixture in the center of the disk.\n9. Fold the disk to make a half-moon shape.\n10. Seal the edges of the half-moon shape by pressing with your fingers.\n11. Repeat the process until all the dough and coconut-jaggery mixture is used up.\n12. In a steamer, steam the pithas for 10-12 minutes.\n13. Remove from the steamer and let it cool down.\n14. Serve hot with tea or coffee."
-				}
-			]
-		},
-		{
-			"id": "5",
-			"cook_name": "Ahmed Hossain",
-			"recipes": [
-				{
-					"Recipe": 1,
-					"name": "Bengali Fish Curry",
-					"ingredients": [
-						"500g fish",
-						"2 onions, finely chopped",
-						"1 tbsp ginger paste",
-						"1 tbsp garlic paste",
-						"1 tbsp cumin powder",
-						"1 tbsp coriander powder",
-						"1 tsp turmeric powder",
-						"1 tsp red chilli powder",
-						"1/2 cup tomato puree",
-						"2 green chillies, slit",
-						"2 tbsp mustard oil",
-						"Salt, to taste",
-						"Coriander leaves, for garnishing"
-					],
-					"method": "1. Marinate the fish with salt and turmeric powder. Keep it aside for 10 minutes.\n2. Heat mustard oil in a pan over medium-high heat. Fry the fish until golden brown. Remove and keep aside.\n3. In the same pan, add more mustard oil if required. Add chopped onions and saute until translucent.\n4. Add ginger paste and garlic paste. Saute for 1-2 minutes.\n5. Add cumin powder, coriander powder, turmeric powder, and red chilli powder. Saute for 2-3 minutes.\n6. Add tomato puree and saute for 2-3 minutes.\n7. Add water and bring it to a boil.\n8. Add the fried fish and green chillies. Cook for 5-7 minutes or until the fish is fully cooked.\n9. Garnish with coriander leaves and serve hot."
-				},
-				{
-					"Recipe": 2,
-					"name": "Chicken Rezala",
-					"ingredients": [
-						"500g chicken",
-						"2 onions, finely chopped",
-						"1 tbsp ginger paste",
-						"1 tbsp garlic paste",
-						"1/2 cup yogurt",
-						"1 tsp cumin powder",
-						"1 tsp coriander powder",
-						"1 tsp white pepper powder",
-						"1/2 cup cashew nuts, soaked in water",
-						"1/2 cup poppy seeds, soaked in water",
-						"1/2 cup milk",
-						"2 tbsp ghee",
-						"Salt, to taste",
-						"Coriander leaves, for garnishing"
-					],
-					"method": "1. In a blender, blend the soaked cashew nuts and poppy seeds into a fine paste.\n2. Marinate the chicken with salt and white pepper powder. Keep it aside for 10 minutes.\n3. Heat ghee in a pan over medium-high heat. Fry the chicken until golden brown. Remove and keep aside.\n4. In the same pan, add chopped onions and saute until translucent.\n5. Add ginger paste and garlic paste. Saute for 1-2 minutes.\n6. Add cumin powder, coriander powder, and white pepper powder. Saute for 2-3 minutes.\n7. Add the cashew nut and poppy seed paste. Mix well.\n8. Add water and bring it to a boil.\n9. Add the fried chicken and yogurt. Cook for 5-7 minutes or until the chicken is fully cooked.\n10. Add milk and mix well.\n11. Garnish with coriander leaves and serve hot."
-				},
-				{
-					"Recipe": 3,
-					"name": "Biryani",
-					"ingredients": [
-						"2 cups basmati rice",
-						"500g chicken, cut into pieces",
-						"2 onions, sliced",
-						"2 tomatoes, chopped",
-						"1 tbsp ginger paste",
-						"1 tbsp garlic paste",
-						"1/2 cup yogurt",
-						"1 tsp cumin powder",
-						"1 tsp coriander powder",
-						"1 tsp garam masala",
-						"1 tsp red chilli powder",
-						"1/2 cup mint leaves",
-						"1/2 cup coriander leaves",
-						"2 tbsp ghee",
-						"Salt, to taste"
-					],
-					"method": "1. Wash and soak the rice in water for 30 minutes.\n2. In a pan, heat ghee over medium-high heat. Add sliced onions and fry until golden brown. Remove and keep aside.\n3. In the same pan, add chicken pieces and fry until golden brown. Remove and keep aside.\n4. In the same pan, add ginger paste and garlic paste. Saute for 1-2 minutes.\n5. Add chopped tomatoes and cook until they become soft and mushy.\n6. Add cumin powder, coriander powder, garam masala, and red chilli powder. Mix well.\n7. Add yogurt and mix well.\n8. Add fried chicken pieces, mint leaves, coriander leaves, and salt. Mix well.\n9. In a separate pan, boil water and add soaked rice. Cook until the rice is half done.\n10. Drain the water from the rice.\n11. In a large pot, layer the rice and chicken masala alternatively. Top with fried onions and cover the pot.\n12. Cook for 15-20 minutes over low heat.\n13. Serve hot."
-				}
-			]
-		},
-		{
-			"id": "6",
-			"Recipe": 1,
-			"cook_name": "Asad Latif",
-			"recipes": [
-				{
-					"name": "Shorshe Ilish",
-					"ingredients": [
-						"500g Hilsa fish",
-						"2 tbsp yellow mustard seeds",
-						"1/2 tsp turmeric powder",
-						"2-3 green chillies, slit",
-						"1/2 cup mustard oil",
-						"Salt, to taste"
-					],
-					"method": "1. Clean the Hilsa fish and marinate with turmeric powder and salt. Keep it aside for 10 minutes.\n2. Soak yellow mustard seeds in water for 30 minutes.\n3. Grind the mustard seeds to a fine paste.\n4. Heat mustard oil in a pan over medium heat.\n5. Add the mustard paste and fry for 1-2 minutes.\n6. Add turmeric powder and salt. Mix well.\n7. Add the marinated Hilsa fish and green chillies. Coat the fish with the mustard sauce.\n8. Add water and bring it to a boil.\n9. Cover the pan and cook for 10-15 minutes or until the fish is cooked.\n10. Serve hot with steamed rice."
-				},
-				{
-					"Recipe": 2,
-					"name": "Bhuna Khichuri",
-					"ingredients": [
-						"1 cup rice",
-						"1 cup moong dal",
-						"1 onion, sliced",
-						"2-3 green chillies, slit",
-						"1 tsp cumin seeds",
-						"1 tsp coriander seeds",
-						"1 tsp turmeric powder",
-						"1 tsp red chilli powder",
-						"1/2 tsp garam masala",
-						"2-3 cloves",
-						"1 cinnamon stick",
-						"2-3 cardamom pods",
-						"3 tbsp ghee",
-						"Salt, to taste"
-					],
-					"method": "1. Wash the rice and moong dal together and soak them in water for 30 minutes.\n2. In a pan, heat ghee over medium heat. Add sliced onions and fry until golden brown. Remove and keep aside.\n3. In the same pan, add cumin seeds, coriander seeds, cloves, cinnamon stick, and cardamom pods. Fry for 1-2 minutes.\n4. Add the soaked rice and moong dal. Fry for 2-3 minutes.\n5. Add turmeric powder, red chilli powder, and salt. Mix well.\n6. Add water and bring it to a boil.\n7. Cover the pan and cook for 15-20 minutes or until the khichuri is cooked.\n8. Add garam masala, fried onions, and green chillies. Mix well.\n9. Serve hot."
-				},
-				{
-					"Recipe": 3,
-					"name": "Pitha",
-					"ingredients": [
-						"2 cups rice flour",
-						"2 cups water",
-						"1/2 cup jaggery, grated",
-						"1/2 cup coconut, grated",
-						"1 tsp cardamom powder",
-						"Oil, for frying"
-					],
-					"method": "1. In a pan, heat water over medium heat. Add grated jaggery and stir until it dissolves completely.\n2. Add grated coconut and cardamom powder. Mix well.\n3. Add rice flour and mix well.\n4. Cook for 2-3 minutes or until the mixture becomes thick.\n5. Remove from heat and let it cool down.\n6. Knead the mixture to form a smooth dough.\n7. Make small balls from the dough.\n8. Flatten the balls with your hands to form a small disc shape.\n9. Heat oil in a pan over medium heat.\n10. Fry the flattened discs in the oil until they become golden brown.\n11. Remove from oil and serve."
-				}
-			]
-		}
-	]
-}
+[
+	{
+		"id": "1",
+		"cook_name": "Mohammad Ajman Miah",
+		"recipes": [
+			{
+				"recipe_id": 1,
+				"ratings": 4.5,
+				"name": "Bengali Fish Curry",
+				"ingredients": [
+					"500g fish",
+					"2 onions, finely chopped",
+					"1 tbsp ginger paste",
+					"1 tbsp garlic paste",
+					"1 tbsp cumin powder",
+					"1 tbsp coriander powder",
+					"1 tsp turmeric powder",
+					"1 tsp red chilli powder",
+					"1/2 cup tomato puree",
+					"2 green chillies, slit",
+					"2 tbsp mustard oil",
+					"Salt, to taste",
+					"Coriander leaves, for garnishing"
+				],
+				"method": "1. Marinate the fish with salt and turmeric powder. Keep it aside for 10 minutes.\n2. Heat mustard oil in a pan over medium-high heat. Fry the fish until golden brown. Remove and keep aside.\n3. In the same pan, add more mustard oil if required. Add chopped onions and saute until translucent.\n4. Add ginger paste and garlic paste. Saute for 1-2 minutes.\n5. Add cumin powder, coriander powder, turmeric powder, and red chilli powder. Saute for 2-3 minutes.\n6. Add tomato puree and saute for 2-3 minutes.\n7. Add water and bring it to a boil.\n8. Add the fried fish and green chillies. Cook for 5-7 minutes or until the fish is fully cooked.\n9. Garnish with coriander leaves and serve hot."
+			},
+			{
+				"recipe_id": 2,
+				"ratings": 4.5,
+				"name": "Chicken Rezala",
+				"ingredients": [
+					"500g chicken",
+					"2 onions, finely chopped",
+					"1 tbsp ginger paste",
+					"1 tbsp garlic paste",
+					"1/2 cup yogurt",
+					"1 tsp cumin powder",
+					"1 tsp coriander powder",
+					"1 tsp white pepper powder",
+					"1/2 cup cashew nuts, soaked in water",
+					"1/2 cup poppy seeds, soaked in water",
+					"1/2 cup milk",
+					"2 tbsp ghee",
+					"Salt, to taste",
+					"Coriander leaves, for garnishing"
+				],
+				"method": "1. In a blender, blend the soaked cashew nuts and poppy seeds into a fine paste.\n2. Marinate the chicken with salt and white pepper powder. Keep it aside for 10 minutes.\n3. Heat ghee in a pan over medium-high heat. Fry the chicken until golden brown. Remove and keep aside.\n4. In the same pan, add chopped onions and saute until translucent.\n5. Add ginger paste and garlic paste. Saute for 1-2 minutes.\n6. Add cumin powder, coriander powder, and white pepper powder. Saute for 2-3 minutes.\n7. Add the cashew nut and poppy seed paste. Mix well.\n8. Add water and bring it to a boil.\n9. Add the fried chicken and yogurt. Cook for 5-7 minutes or until the chicken is fully cooked.\n10. Add milk and mix well.\n11. Garnish with coriander leaves and serve hot."
+			},
+			{
+				"recipe_id": 3,
+				"ratings": 5,
+				"name": "Biryani",
+				"ingredients": [
+					"2 cups basmati rice",
+					"500g chicken, cut into pieces",
+					"2 onions, sliced",
+					"2 tomatoes, chopped",
+					"1 tbsp ginger paste",
+					"1 tbsp garlic paste",
+					"1/2 cup yogurt",
+					"1 tsp cumin powder",
+					"1 tsp coriander powder",
+					"1 tsp garam masala",
+					"1 tsp red chilli powder",
+					"1/2 cup mint leaves",
+					"1/2 cup coriander leaves",
+					"2 tbsp ghee",
+					"Salt, to taste"
+				],
+				"method": "1. Wash and soak the rice in water for 30 minutes.\n2. In a pan, heat ghee over medium-high heat. Add sliced onions and fry until golden brown. Remove and keep aside.\n3. In the same pan, add chicken pieces and fry until golden brown. Remove and keep aside.\n4. In the same pan, add ginger paste and garlic paste. Saute for 1-2 minutes.\n5. Add chopped tomatoes and cook until they become soft and mushy.\n6. Add cumin powder, coriander powder, garam masala, and red chilli powder. Mix well.\n7. Add yogurt and mix well.\n8. Add fried chicken pieces, mint leaves, coriander leaves, and salt. Mix well.\n9. In a separate pan, boil water and add soaked rice. Cook until the rice is half done.\n10. Drain the water from the rice.\n11. In a large pot, layer the rice and chicken masala alternatively. Top with fried onions and cover the pot.\n12. Cook for 15-20 minutes over low heat.\n13. Serve hot."
+			}
+		]
+	},
+	{
+		"id": "2",
+		"cook_name": "Siddika Kabir",
+		"recipes": [
+			{
+				"recipe_id": 1,
+				"ratings": 5,
+				"name": "Shorshe Ilish",
+				"ingredients": [
+					"500g Hilsa fish",
+					"2 tbsp yellow mustard seeds",
+					"1/2 tsp turmeric powder",
+					"2-3 green chillies, slit",
+					"1/2 cup mustard oil",
+					"Salt, to taste"
+				],
+				"method": "1. Clean the Hilsa fish and marinate with turmeric powder and salt. Keep it aside for 10 minutes.\n2. Soak yellow mustard seeds in water for 30 minutes.\n3. Grind the mustard seeds to a fine paste.\n4. Heat mustard oil in a pan over medium heat.\n5. Add the mustard paste and fry for 1-2 minutes.\n6. Add turmeric powder and salt. Mix well.\n7. Add the marinated Hilsa fish and green chillies. Coat the fish with the mustard sauce.\n8. Add water and bring it to a boil.\n9. Cover the pan and cook for 10-15 minutes or until the fish is cooked.\n10. Serve hot with steamed rice."
+			},
+			{
+				"recipe_id": 2,
+				"ratings": 5,
+				"name": "Bhuna Khichuri",
+				"ingredients": [
+					"1 cup rice",
+					"1 cup moong dal",
+					"1 onion, sliced",
+					"2-3 green chillies, slit",
+					"1 tsp cumin seeds",
+					"1 tsp coriander seeds",
+					"1 tsp turmeric powder",
+					"1 tsp red chilli powder",
+					"1/2 tsp garam masala",
+					"2-3 cloves",
+					"1 cinnamon stick",
+					"2-3 cardamom pods",
+					"3 tbsp ghee",
+					"Salt, to taste"
+				],
+				"method": "1. Wash the rice and moong dal together and soak them in water for 30 minutes.\n2. In a pan, heat ghee over medium heat. Add sliced onions and fry until golden brown. Remove and keep aside.\n3. In the same pan, add cumin seeds, coriander seeds, cloves, cinnamon stick, and cardamom pods. Fry for 1-2 minutes.\n4. Add the soaked rice and moong dal. Fry for 2-3 minutes.\n5. Add turmeric powder, red chilli powder, and salt. Mix well.\n6. Add water and bring it to a boil.\n7. Cover the pan and cook for 15-20 minutes or until the khichuri is cooked.\n8. Add garam masala, fried onions, and green chillies. Mix well.\n9. Serve hot."
+			},
+			{
+				"recipe_id": 3,
+				"ratings": 5,
+				"name": "Pitha",
+				"ingredients": [
+					"2 cups rice flour",
+					"2 cups water",
+					"1/2 cup jaggery, grated",
+					"1/2 cup coconut, grated",
+					"1 tsp cardamom powder",
+					"Oil, for frying"
+				],
+				"method": "1. In a pan, heat water over medium heat. Add grated jaggery and stir until it dissolves completely.\n2. Add grated coconut and cardamom powder. Mix well.\n3. Add rice flour and mix well.\n4. Cook for 2-3 minutes or until the mixture becomes thick.\n5. Remove from heat and let it cool down.\n6. Knead the mixture to form a smooth dough.\n7. Make small balls from the dough.\n8. Flatten the balls with your hands to form a small disc shape.\n9. Heat oil in a pan over medium heat.\n10. Fry the flattened discs in the oil until they become golden brown.\n11. Remove from oil and serve."
+			}
+		]
+	},
+	{
+		"id": "3",
+		"cook_name": "Tony Alal Karim Khan",
+		"recipes": [
+			{
+				"recipe_id": 1,
+				"ratings": 4.5,
+				"name": "Chapli Kebab",
+				"ingredients": [
+					"500g beef mince",
+					"1 onion, finely chopped",
+					"2 tomatoes, finely chopped",
+					"1 egg",
+					"1/2 cup coriander leaves, chopped",
+					"1/2 cup mint leaves, chopped",
+					"1 tsp cumin powder",
+					"1 tsp coriander powder",
+					"1 tsp red chilli powder",
+					"1 tsp garam masala",
+					"1/2 tsp turmeric powder",
+					"1/2 tsp baking powder",
+					"Salt, to taste",
+					"Oil, for frying"
+				],
+				"method": "1. In a mixing bowl, combine beef mince, chopped onion, chopped tomatoes, beaten egg, chopped coriander leaves, chopped mint leaves, cumin powder, coriander powder, red chilli powder, garam masala, turmeric powder, baking powder, and salt. Mix well.\n2. Knead the mixture to form a smooth dough.\n3. Take a small portion of the mixture and shape it into a round patty.\n4. Heat oil in a pan over medium heat.\n5. Fry the patties in the oil until they become golden brown on both sides.\n6. Remove from oil and serve hot."
+			},
+			{
+				"recipe_id": 2,
+				"ratings": 5,
+				"name": "Shorshe Ilish",
+				"ingredients": [
+					"4-5 pieces of Hilsa fish",
+					"2 tbsp yellow mustard seeds",
+					"2-3 green chillies, slit",
+					"1 tsp turmeric powder",
+					"Salt, to taste",
+					"2 tbsp mustard oil",
+					"Water, as required"
+				],
+				"method": "1. Marinate the Hilsa fish pieces with turmeric powder and salt. Keep it aside for 10 minutes.\n2. Soak yellow mustard seeds in water for 30 minutes.\n3. Grind the mustard seeds to a fine paste.\n4. Heat mustard oil in a pan over medium heat.\n5. Add the mustard paste and fry for 1-2 minutes.\n6. Add turmeric powder and salt. Mix well.\n7. Add the marinated Hilsa fish and green chillies. Coat the fish with the mustard sauce.\n8. Add water and bring it to a boil.\n9. Cover the pan and cook for 10-15 minutes or until the fish is cooked.\n10. Serve hot with steamed rice."
+			},
+			{
+				"recipe_id": 3,
+				"ratings": 5,
+				"name": "Bhuna Khichuri",
+				"ingredients": [
+					"1 cup rice",
+					"1 cup moong dal",
+					"1 onion, sliced",
+					"2-3 green chillies, slit",
+					"1 tsp cumin seeds",
+					"1 tsp coriander seeds",
+					"1 tsp turmeric powder",
+					"1 tsp red chilli powder",
+					"1/2 tsp garam masala",
+					"2-3 cloves",
+					"1 cinnamon stick",
+					"2-3 cardamom pods",
+					"3 tbsp ghee",
+					"Salt, to taste"
+				],
+				"method": "1. Wash the rice and moong dal together and soak them in water for 30 minutes.\n2. In a pan, heat ghee over medium heat. Add sliced onions and fry until golden brown. Remove and keep aside.\n3. In the same pan, add cumin seeds, coriander seeds, cloves, cinnamon stick, and cardamom pods. Fry for 1-2 minutes.\n4. Add the soaked rice and moong dal. Fry for 2-3 minutes.\n5. Add turmeric powder, red chilli powder, and salt. Mix well.\n6. Add 4 cups of water and green chillies. Stir well.\n7. Cover the pan and cook over low heat until the rice and dal are cooked.\n8. Once the rice and dal are cooked, add the fried onions and garam masala. Mix well.\n9. Cover the pan and let it sit for 5-10 minutes.\n10. Serve hot with your favorite side dish."
+			}
+		]
+	},
+	{
+		"id": 4,
+		"cook_name": "Kishwar Chowdhury",
+		"recipes": [
+			{
+				"recipe_id": 1,
+				"ratings": 5,
+				"name": "Chingri Malai Curry",
+				"ingredients": [
+					"500 gm prawns",
+					"1 onion, chopped",
+					"1 tbsp ginger paste",
+					"1 tbsp garlic paste",
+					"2 green chillies, chopped",
+					"1/2 cup coconut milk",
+					"1/2 cup water",
+					"2 tbsp mustard oil",
+					"1 tsp turmeric powder",
+					"1 tsp red chilli powder",
+					"1 tsp cumin powder",
+					"1 tsp coriander powder",
+					"Salt, to taste",
+					"Coriander leaves, for garnishing"
+				],
+				"method": "1. Clean the prawns and marinate them with turmeric powder and salt. Keep aside for 10 minutes.\n2. In a pan, heat mustard oil over medium heat. Add chopped onion and fry until golden brown.\n3. Add ginger paste, garlic paste, and chopped green chillies. Fry for 1-2 minutes.\n4. Add turmeric powder, red chilli powder, cumin powder, coriander powder, and salt. Mix well.\n5. Add water and coconut milk. Mix well and bring it to a boil.\n6. Add the marinated prawns and stir well.\n7. Cover the pan and let it cook over low heat for 10-15 minutes or until the prawns are cooked.\n8. Garnish with coriander leaves and serve hot with steamed rice."
+			},
+			{
+				"recipe_id": 2,
+				"ratings": 5,
+				"name": "Biryani",
+				"ingredients": [
+					"500 gm basmati rice",
+					"1 kg chicken, cut into pieces",
+					"2 onions, sliced",
+					"1/2 cup yogurt",
+					"1/2 cup milk",
+					"2 tbsp ginger paste",
+					"2 tbsp garlic paste",
+					"4 green chillies, chopped",
+					"1 tsp cumin powder",
+					"1 tsp coriander powder",
+					"1 tsp garam masala",
+					"1/2 tsp turmeric powder",
+					"1/2 tsp red chilli powder",
+					"1/2 tsp saffron",
+					"1/2 cup ghee",
+					"Salt, to taste"
+				],
+				"method": "1. Wash the rice and soak it in water for 30 minutes.\n2. Marinate the chicken with yogurt, ginger paste, garlic paste, chopped green chillies, cumin powder, coriander powder, garam masala, turmeric powder, red chilli powder, and salt. Keep aside for 30 minutes.\n3. In a pan, heat ghee over medium heat. Add sliced onions and fry until golden brown. Remove and keep aside.\n4. In the same pan, add the marinated chicken and fry for 5-7 minutes.\n5. Add water and cook until the chicken is tender and the water has evaporated.\n6. Soak saffron in warm milk for 5-10 minutes.\n7. In a separate pot, boil water andadd the soaked rice. Cook for 7-8 minutes or until the rice is half cooked.\n8. Drain the water and keep the rice aside.\n9. Preheat the oven to 180°C.\n10. Take a large oven-safe pot and add a layer of rice at the bottom.\n11. Add a layer of chicken on top of the rice.\n12. Add another layer of rice on top of the chicken.\n13. Repeat until all the rice and chicken are used up.\n14. Pour the saffron milk on top of the rice.\n15. Cover the pot with aluminum foil and bake in the preheated oven for 30-40 minutes.\n16. Remove from the oven and let it sit for 5-10 minutes.\n17. Garnish with fried onions and serve hot with raita and salad."
+			},
+			{
+				"recipe_id": 3,
+				"ratings": 4.5,
+				"name": "Pitha",
+				"ingredients": [
+					"1 cup rice flour",
+					"1/2 cup water",
+					"1/2 cup grated coconut",
+					"1/2 cup jaggery, grated",
+					"1/2 tsp cardamom powder",
+					"1/2 tsp salt",
+					"2 tbsp oil"
+				],
+				"method": "1. In a pan, mix grated coconut and jaggery. Cook over low heat until the jaggery melts and mixes well with the coconut. Remove from heat and let it cool down.\n2. In a separate pan, boil water and add salt and oil.\n3. Add rice flour and mix well. Cook for 2-3 minutes.\n4. Remove from heat and let it cool down.\n5. Knead the rice flour mixture to make a smooth dough.\n6. Take a small portion of the dough and make a ball.\n7. Flatten the ball with your fingers to make a small disk.\n8. Add a small portion of the coconut and jaggery mixture in the center of the disk.\n9. Fold the disk to make a half-moon shape.\n10. Seal the edges of the half-moon shape by pressing with your fingers.\n11. Repeat the process until all the dough and coconut-jaggery mixture is used up.\n12. In a steamer, steam the pithas for 10-12 minutes.\n13. Remove from the steamer and let it cool down.\n14. Serve hot with tea or coffee."
+			}
+		]
+	},
+	{
+		"id": "5",
+		"cook_name": "Ahmed Hossain",
+		"recipes": [
+			{
+				"recipe_id": 1,
+				"ratings": 5,
+				"name": "Bengali Fish Curry",
+				"ingredients": [
+					"500g fish",
+					"2 onions, finely chopped",
+					"1 tbsp ginger paste",
+					"1 tbsp garlic paste",
+					"1 tbsp cumin powder",
+					"1 tbsp coriander powder",
+					"1 tsp turmeric powder",
+					"1 tsp red chilli powder",
+					"1/2 cup tomato puree",
+					"2 green chillies, slit",
+					"2 tbsp mustard oil",
+					"Salt, to taste",
+					"Coriander leaves, for garnishing"
+				],
+				"method": "1. Marinate the fish with salt and turmeric powder. Keep it aside for 10 minutes.\n2. Heat mustard oil in a pan over medium-high heat. Fry the fish until golden brown. Remove and keep aside.\n3. In the same pan, add more mustard oil if required. Add chopped onions and saute until translucent.\n4. Add ginger paste and garlic paste. Saute for 1-2 minutes.\n5. Add cumin powder, coriander powder, turmeric powder, and red chilli powder. Saute for 2-3 minutes.\n6. Add tomato puree and saute for 2-3 minutes.\n7. Add water and bring it to a boil.\n8. Add the fried fish and green chillies. Cook for 5-7 minutes or until the fish is fully cooked.\n9. Garnish with coriander leaves and serve hot."
+			},
+			{
+				"recipe_id": 2,
+				"ratings": 5,
+				"name": "Chicken Rezala",
+				"ingredients": [
+					"500g chicken",
+					"2 onions, finely chopped",
+					"1 tbsp ginger paste",
+					"1 tbsp garlic paste",
+					"1/2 cup yogurt",
+					"1 tsp cumin powder",
+					"1 tsp coriander powder",
+					"1 tsp white pepper powder",
+					"1/2 cup cashew nuts, soaked in water",
+					"1/2 cup poppy seeds, soaked in water",
+					"1/2 cup milk",
+					"2 tbsp ghee",
+					"Salt, to taste",
+					"Coriander leaves, for garnishing"
+				],
+				"method": "1. In a blender, blend the soaked cashew nuts and poppy seeds into a fine paste.\n2. Marinate the chicken with salt and white pepper powder. Keep it aside for 10 minutes.\n3. Heat ghee in a pan over medium-high heat. Fry the chicken until golden brown. Remove and keep aside.\n4. In the same pan, add chopped onions and saute until translucent.\n5. Add ginger paste and garlic paste. Saute for 1-2 minutes.\n6. Add cumin powder, coriander powder, and white pepper powder. Saute for 2-3 minutes.\n7. Add the cashew nut and poppy seed paste. Mix well.\n8. Add water and bring it to a boil.\n9. Add the fried chicken and yogurt. Cook for 5-7 minutes or until the chicken is fully cooked.\n10. Add milk and mix well.\n11. Garnish with coriander leaves and serve hot."
+			},
+			{
+				"recipe_id": 3,
+				"ratings": 5,
+				"name": "Biryani",
+				"ingredients": [
+					"2 cups basmati rice",
+					"500g chicken, cut into pieces",
+					"2 onions, sliced",
+					"2 tomatoes, chopped",
+					"1 tbsp ginger paste",
+					"1 tbsp garlic paste",
+					"1/2 cup yogurt",
+					"1 tsp cumin powder",
+					"1 tsp coriander powder",
+					"1 tsp garam masala",
+					"1 tsp red chilli powder",
+					"1/2 cup mint leaves",
+					"1/2 cup coriander leaves",
+					"2 tbsp ghee",
+					"Salt, to taste"
+				],
+				"method": "1. Wash and soak the rice in water for 30 minutes.\n2. In a pan, heat ghee over medium-high heat. Add sliced onions and fry until golden brown. Remove and keep aside.\n3. In the same pan, add chicken pieces and fry until golden brown. Remove and keep aside.\n4. In the same pan, add ginger paste and garlic paste. Saute for 1-2 minutes.\n5. Add chopped tomatoes and cook until they become soft and mushy.\n6. Add cumin powder, coriander powder, garam masala, and red chilli powder. Mix well.\n7. Add yogurt and mix well.\n8. Add fried chicken pieces, mint leaves, coriander leaves, and salt. Mix well.\n9. In a separate pan, boil water and add soaked rice. Cook until the rice is half done.\n10. Drain the water from the rice.\n11. In a large pot, layer the rice and chicken masala alternatively. Top with fried onions and cover the pot.\n12. Cook for 15-20 minutes over low heat.\n13. Serve hot."
+			}
+		]
+	},
+	{
+		"id": "6",
+
+		"cook_name": "Asad Latif",
+		"recipes": [
+			{
+				"recipe_id": 1,
+				"ratings": 5,
+				"name": "Shorshe Ilish",
+				"ingredients": [
+					"500g Hilsa fish",
+					"2 tbsp yellow mustard seeds",
+					"1/2 tsp turmeric powder",
+					"2-3 green chillies, slit",
+					"1/2 cup mustard oil",
+					"Salt, to taste"
+				],
+				"method": "1. Clean the Hilsa fish and marinate with turmeric powder and salt. Keep it aside for 10 minutes.\n2. Soak yellow mustard seeds in water for 30 minutes.\n3. Grind the mustard seeds to a fine paste.\n4. Heat mustard oil in a pan over medium heat.\n5. Add the mustard paste and fry for 1-2 minutes.\n6. Add turmeric powder and salt. Mix well.\n7. Add the marinated Hilsa fish and green chillies. Coat the fish with the mustard sauce.\n8. Add water and bring it to a boil.\n9. Cover the pan and cook for 10-15 minutes or until the fish is cooked.\n10. Serve hot with steamed rice."
+			},
+			{
+				"recipe_id": 2,
+				"ratings": 4.5,
+				"name": "Bhuna Khichuri",
+				"ingredients": [
+					"1 cup rice",
+					"1 cup moong dal",
+					"1 onion, sliced",
+					"2-3 green chillies, slit",
+					"1 tsp cumin seeds",
+					"1 tsp coriander seeds",
+					"1 tsp turmeric powder",
+					"1 tsp red chilli powder",
+					"1/2 tsp garam masala",
+					"2-3 cloves",
+					"1 cinnamon stick",
+					"2-3 cardamom pods",
+					"3 tbsp ghee",
+					"Salt, to taste"
+				],
+				"method": "1. Wash the rice and moong dal together and soak them in water for 30 minutes.\n2. In a pan, heat ghee over medium heat. Add sliced onions and fry until golden brown. Remove and keep aside.\n3. In the same pan, add cumin seeds, coriander seeds, cloves, cinnamon stick, and cardamom pods. Fry for 1-2 minutes.\n4. Add the soaked rice and moong dal. Fry for 2-3 minutes.\n5. Add turmeric powder, red chilli powder, and salt. Mix well.\n6. Add water and bring it to a boil.\n7. Cover the pan and cook for 15-20 minutes or until the khichuri is cooked.\n8. Add garam masala, fried onions, and green chillies. Mix well.\n9. Serve hot."
+			},
+			{
+				"recipe_id": 3,
+				"ratings": 5,
+				"name": "Pitha",
+				"ingredients": [
+					"2 cups rice flour",
+					"2 cups water",
+					"1/2 cup jaggery, grated",
+					"1/2 cup coconut, grated",
+					"1 tsp cardamom powder",
+					"Oil, for frying"
+				],
+				"method": "1. In a pan, heat water over medium heat. Add grated jaggery and stir until it dissolves completely.\n2. Add grated coconut and cardamom powder. Mix well.\n3. Add rice flour and mix well.\n4. Cook for 2-3 minutes or until the mixture becomes thick.\n5. Remove from heat and let it cool down.\n6. Knead the mixture to form a smooth dough.\n7. Make small balls from the dough.\n8. Flatten the balls with your hands to form a small disc shape.\n9. Heat oil in a pan over medium heat.\n10. Fry the flattened discs in the oil until they become golden brown.\n11. Remove from oil and serve."
+			}
+		]
+	}
+]
