@@ -1,12 +1,13 @@
 [
 	{
-		"id": "1",
+		"id": 1,
 		"cook_name": "Mohammad Ajman Miah",
 		"recipes": [
 			{
 				"recipe_id": 1,
 				"ratings": 4.5,
 				"name": "Bengali Fish Curry",
+				"image": "https://i.postimg.cc/sXStkp2H/lampos-aritonang-3o-Ecy656-LIE-unsplash.jpg",
 				"ingredients": [
 					"500g fish",
 					"2 onions, finely chopped",
@@ -28,6 +29,7 @@
 				"recipe_id": 2,
 				"ratings": 4.5,
 				"name": "Chicken Rezala",
+				"image": "https://i.postimg.cc/d07fP81P/yubraj-timsina-e-I-Uk6u-GCOQ-unsplash.jpg",
 				"ingredients": [
 					"500g chicken",
 					"2 onions, finely chopped",
@@ -50,6 +52,7 @@
 				"recipe_id": 3,
 				"ratings": 5,
 				"name": "Biryani",
+				"image": "https://i.postimg.cc/cJwfqHQ4/mario-raj-n1z3gc9g-J8-I-unsplash.jpg",
 				"ingredients": [
 					"2 cups basmati rice",
 					"500g chicken, cut into pieces",
@@ -72,13 +75,14 @@
 		]
 	},
 	{
-		"id": "2",
+		"id": 2,
 		"cook_name": "Siddika Kabir",
 		"recipes": [
 			{
 				"recipe_id": 1,
 				"ratings": 5,
 				"name": "Shorshe Ilish",
+				"image": "https://i.postimg.cc/sXStkp2H/lampos-aritonang-3o-Ecy656-LIE-unsplash.jpg",
 				"ingredients": [
 					"500g Hilsa fish",
 					"2 tbsp yellow mustard seeds",
@@ -93,6 +97,7 @@
 				"recipe_id": 2,
 				"ratings": 5,
 				"name": "Bhuna Khichuri",
+				"image": "https://i.postimg.cc/cJwfqHQ4/mario-raj-n1z3gc9g-J8-I-unsplash.jpg",
 				"ingredients": [
 					"1 cup rice",
 					"1 cup moong dal",
@@ -115,6 +120,7 @@
 				"recipe_id": 3,
 				"ratings": 5,
 				"name": "Pitha",
+				"image": "https://i.postimg.cc/VkjhYjQ3/sara-dubler-l-Oa-XEG1t-VUM-unsplash.jpg",
 				"ingredients": [
 					"2 cups rice flour",
 					"2 cups water",
@@ -128,13 +134,14 @@
 		]
 	},
 	{
-		"id": "3",
+		"id": 3,
 		"cook_name": "Tony Alal Karim Khan",
 		"recipes": [
 			{
 				"recipe_id": 1,
 				"ratings": 4.5,
 				"name": "Chapli Kebab",
+				"image": "https://i.postimg.cc/VkjhYjQ3/sara-dubler-l-Oa-XEG1t-VUM-unsplash.jpg",
 				"ingredients": [
 					"500g beef mince",
 					"1 onion, finely chopped",
@@ -157,6 +164,7 @@
 				"recipe_id": 2,
 				"ratings": 5,
 				"name": "Shorshe Ilish",
+				"image": "https://i.postimg.cc/sXStkp2H/lampos-aritonang-3o-Ecy656-LIE-unsplash.jpg",
 				"ingredients": [
 					"4-5 pieces of Hilsa fish",
 					"2 tbsp yellow mustard seeds",
@@ -172,6 +180,7 @@
 				"recipe_id": 3,
 				"ratings": 5,
 				"name": "Bhuna Khichuri",
+				"image": "https://i.postimg.cc/cJwfqHQ4/mario-raj-n1z3gc9g-J8-I-unsplash.jpg",
 				"ingredients": [
 					"1 cup rice",
 					"1 cup moong dal",
@@ -200,6 +209,7 @@
 				"recipe_id": 1,
 				"ratings": 5,
 				"name": "Chingri Malai Curry",
+				"image": "https://i.postimg.cc/sXStkp2H/lampos-aritonang-3o-Ecy656-LIE-unsplash.jpg",
 				"ingredients": [
 					"500 gm prawns",
 					"1 onion, chopped",
@@ -222,6 +232,7 @@
 				"recipe_id": 2,
 				"ratings": 5,
 				"name": "Biryani",
+				"image": "https://i.postimg.cc/cJwfqHQ4/mario-raj-n1z3gc9g-J8-I-unsplash.jpg",
 				"ingredients": [
 					"500 gm basmati rice",
 					"1 kg chicken, cut into pieces",
@@ -246,6 +257,7 @@
 				"recipe_id": 3,
 				"ratings": 4.5,
 				"name": "Pitha",
+				"image": "https://i.postimg.cc/VkjhYjQ3/sara-dubler-l-Oa-XEG1t-VUM-unsplash.jpg",
 				"ingredients": [
 					"1 cup rice flour",
 					"1/2 cup water",
@@ -260,13 +272,14 @@
 		]
 	},
 	{
-		"id": "5",
+		"id": 5,
 		"cook_name": "Ahmed Hossain",
 		"recipes": [
 			{
 				"recipe_id": 1,
 				"ratings": 5,
 				"name": "Bengali Fish Curry",
+				"image": "https://i.postimg.cc/sXStkp2H/lampos-aritonang-3o-Ecy656-LIE-unsplash.jpg",
 				"ingredients": [
 					"500g fish",
 					"2 onions, finely chopped",
@@ -288,6 +301,7 @@
 				"recipe_id": 2,
 				"ratings": 5,
 				"name": "Chicken Rezala",
+				"image": "https://i.postimg.cc/d07fP81P/yubraj-timsina-e-I-Uk6u-GCOQ-unsplash.jpg",
 				"ingredients": [
 					"500g chicken",
 					"2 onions, finely chopped",
@@ -310,6 +324,7 @@
 				"recipe_id": 3,
 				"ratings": 5,
 				"name": "Biryani",
+				"image": "https://i.postimg.cc/cJwfqHQ4/mario-raj-n1z3gc9g-J8-I-unsplash.jpg",
 				"ingredients": [
 					"2 cups basmati rice",
 					"500g chicken, cut into pieces",
@@ -332,7 +347,7 @@
 		]
 	},
 	{
-		"id": "6",
+		"id": 6,
 
 		"cook_name": "Asad Latif",
 		"recipes": [
@@ -340,6 +355,7 @@
 				"recipe_id": 1,
 				"ratings": 5,
 				"name": "Shorshe Ilish",
+				"image": "https://i.postimg.cc/sXStkp2H/lampos-aritonang-3o-Ecy656-LIE-unsplash.jpg",
 				"ingredients": [
 					"500g Hilsa fish",
 					"2 tbsp yellow mustard seeds",
@@ -354,6 +370,7 @@
 				"recipe_id": 2,
 				"ratings": 4.5,
 				"name": "Bhuna Khichuri",
+				"image": "https://i.postimg.cc/cJwfqHQ4/mario-raj-n1z3gc9g-J8-I-unsplash.jpg",
 				"ingredients": [
 					"1 cup rice",
 					"1 cup moong dal",
@@ -376,6 +393,7 @@
 				"recipe_id": 3,
 				"ratings": 5,
 				"name": "Pitha",
+				"image": "https://i.postimg.cc/VkjhYjQ3/sara-dubler-l-Oa-XEG1t-VUM-unsplash.jpg",
 				"ingredients": [
 					"2 cups rice flour",
 					"2 cups water",
